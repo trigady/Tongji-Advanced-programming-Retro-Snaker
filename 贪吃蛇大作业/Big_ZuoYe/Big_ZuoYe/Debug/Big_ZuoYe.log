@@ -1,0 +1,12 @@
+﻿  first.cpp
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\贪吃蛇\big_zuoye\big_zuoye\first.cpp(4352): warning C4101: “s”: 未引用的局部变量
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\贪吃蛇\big_zuoye\big_zuoye\first.cpp(4388): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\贪吃蛇\big_zuoye\big_zuoye\first.cpp(757): warning C4715: “Game1::play”: 不是所有的控件路径都返回值
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\贪吃蛇\big_zuoye\big_zuoye\first.cpp(1471): warning C4715: “Game3::play”: 不是所有的控件路径都返回值
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\贪吃蛇\big_zuoye\big_zuoye\first.cpp(1105): warning C4715: “Game2::play”: 不是所有的控件路径都返回值
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\贪吃蛇\big_zuoye\big_zuoye\first.cpp(1813): warning C4715: “Game4::play”: 不是所有的控件路径都返回值
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\贪吃蛇\big_zuoye\big_zuoye\first.cpp(2126): warning C4715: “Game5::play”: 不是所有的控件路径都返回值
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\贪吃蛇\big_zuoye\big_zuoye\first.cpp(2471): warning C4715: “Game6::play”: 不是所有的控件路径都返回值
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\贪吃蛇\big_zuoye\big_zuoye\first.cpp(2814): warning C4715: “Game7::play”: 不是所有的控件路径都返回值
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\贪吃蛇\big_zuoye\big_zuoye\first.cpp(3152): warning C4715: “Game8::play”: 不是所有的控件路径都返回值
+  Big_ZuoYe.vcxproj -> C:\Users\www\Desktop\李至霖\学习\大二下\高程\大作业\贪吃蛇\Big_ZuoYe\Debug\Big_ZuoYe.exe

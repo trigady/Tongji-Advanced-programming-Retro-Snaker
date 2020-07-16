@@ -1,0 +1,9 @@
+﻿  first.cpp
+c:\users\www\desktop\big_zuoye\big_zuoye\first.cpp(4014): warning C4101: “s”: 未引用的局部变量
+c:\users\www\desktop\big_zuoye\big_zuoye\first.cpp(4049): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  1 of 323 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Big_ZuoYe.vcxproj -> C:\Users\www\Desktop\Big_ZuoYe\Release\Big_ZuoYe.exe
